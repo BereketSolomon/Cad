@@ -1,0 +1,55 @@
+body{text-justify: auto;} 
+h1{color:red;  
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; 
+    font-style: italic; 
+    padding: 15px;     
+    text-align: center;} 
+    h2{c:white; font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; 
+        font-style: italic; 
+        margin-right: 100px;
+        margin-left: 100px; 
+        padding: 10px;} 
+        data{color:gray; 
+            font-size: 5; 
+            background-color: cadetblue; 
+            font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;} 
+ 
+p{color: red; font-weight: 15; 
+    text-align: justify; 
+    width: 300px; 
+    padding: 10px; 
+    margin-right: 200px; 
+    margin-left: 200px;} 
+ 
+.projects{color: black; 
+    background-color:gray; 
+    padding: 10px;         
+    text-align: justify;         
+    float:left;         
+    width:50%;         
+    padding:0px;         
+    box-sizing:border-box;     
+}             
+    button{ 
+                position: relative;                 
+                color:red;                 
+                font-size: 20px;                 
+                background:rgba(232, 233, 187, 0.486);                                  
+                outline: none;                 
+                left: 0%;                 
+                width: 260px;                 
+                text-align: left;             
+            }             
+            #sidebar{                 
+                text-align: left;                 
+                float:right;                 
+                width:50%;                                  
+                background:none;                 
+                color:#fff; 
+                padding:0px;                 
+                box-sizing:border-box;             
+            } 
+ 
+.dev1{fill:rgb(219, 215, 215);  } 
+.dev2{fill:rgb(109, 160, 209);      } 
+.removed{ display: none; } 
